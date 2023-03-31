@@ -1,0 +1,180 @@
+.presentation {
+  position: relative;
+  width: 1110px;
+  height: 600px;
+  background-image: url(../../assets/home/image-homepage-hero.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.resume {
+  position: absolute;
+  bottom: 0;
+  width: 445px;
+  height: 357px;
+  background-color: white;
+  z-index: 9999;
+}
+
+.h1-text-resume {
+  width: 390px;
+  height: 200px;
+  margin: 56px 28px 101px 27px;
+}
+
+.h1-text-resume h1 {
+  font-family: 'Ibarra Real Nova';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 50px;
+  letter-spacing: -0.446429px
+}
+
+.btn {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-decoration: none;
+  bottom: 0;
+  background-color: #203a4c;
+  width: 200px;
+  height: 48px;
+
+}
+
+.btn:hover {
+  background-color: #5fb4a2;
+}
+
+.btn img {
+  align-self: center;
+  height: 48px;
+  width: 48px;
+  padding: 18px 16px;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+
+.btn:hover img {
+  align-self: center;
+  height: 48px;
+  width: 48px;
+  padding: 18px 16px;
+  background-color: rgba(0, 0, 0, 0.25);
+  filter: brightness(250%);
+}
+
+.btn span {
+  position: absolute;
+  height: 14px;
+  width: 152px;
+  padding: 17px 0;
+  font-family: 'Public Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+.about-me {
+  display: flex;
+  flex-direction: row;
+  width: 1110px;
+  height: 601px;
+  margin-top: 150px;
+  margin-bottom: 151px;
+  background-color: white;
+}
+
+.profile-pic {
+  background-image: url("../../assets/home/image-homepage-profile.jpg");
+  width: 540px;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.about-me-text {
+  width: 430px;
+  height: 601px;
+  margin-left: 140px;
+  border-top: 1px solid rgba(51, 50, 61, 0.15);
+  border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+
+
+}
+
+.about-me-text h2 {
+  width: 430px;
+  height: 42px;
+  font-family: 'Ibarra Real Nova';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 42px;
+  letter-spacing: -0.357143px;
+  color: #33323D;
+  margin-top: 51px;
+
+}
+
+.about-me-text p {
+  height: 360px;
+  width: 430px;
+  font-family: 'Public Sans', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 188%;
+  color: rgba(51, 50, 61, 0.8);
+  margin-top: 28px;
+  text-align: left;
+  mix-blend-mode: normal;
+}
+
+.link-portfolio {
+  width: 204px;
+  height: 48px;
+  border: 1px solid #33323D;
+  margin-top: 24px;
+  margin-left: 113px;
+  margin-bottom: 46px;
+}
+
+.link-portfolio:hover {
+  background-color: #33323D;
+}
+
+.about-me-text a:hover {
+  font-family: 'Public Sans', sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #FAFAFA;
+}
+
+.about-me-text a {
+  position: absolute;
+  text-decoration: none;
+  font-family: 'Public Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #33323D;
+  padding: 17px 28px;
+
+}

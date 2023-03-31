@@ -1,0 +1,244 @@
+.manage-section {
+  display: flex;
+  width: 1015px;
+  height: 500px;
+  margin-left: 212px;
+}
+
+.img-project {
+  width: 540px;
+  height: 500px;
+  background-color: #FFEFEC;
+}
+
+.background-manage {
+  width: 432px;
+  height: 450px;
+  margin-top: 50px;
+  margin-left: 30px;
+  background-image: url(../../assets/portfolio/manage/image-portfolio-manage.jpg);
+  background-size: cover;
+}
+
+.text-container-right {
+  position: relative;
+  width: 350px;
+  height: 500px;
+  margin-left: 125px;
+  border-top: 1px solid rgba(51, 50, 61, 0.15);
+  border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+}
+
+.manage-text {
+  width: 100%;
+  height: 292px;
+  margin-top: 103px;
+}
+
+.manage-text h2 {
+  width: 100%;
+  height: 42px;
+  font-family: 'Ibarra Real Nova', serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 42px;
+  letter-spacing: -0.357143px;
+  color: #33323D;
+}
+
+.manage-text p {
+  width: 100%;
+  height: 120px;
+  margin-top: 28px;
+  font-family: 'Public Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #33323D;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
+
+.container-bookmark {
+  display: flex;
+  width: 1015px;
+  height: 500px;
+  margin-top: 80px;
+  margin-left: 212px;
+}
+
+.text-container-left {
+  position: relative;
+  width: 350px;
+  height: 500px;
+  border-top: 1px solid rgba(51, 50, 61, 0.15);
+  border-bottom: 1px solid rgba(51, 50, 61, 0.15);
+}
+
+.bookmark-text {
+  width: 100%;
+  height: 292px;
+  margin-top: 103px;
+}
+
+.bookmark-text h2 {
+  width: 100%;
+  height: 42px;
+  font-family: 'Ibarra Real Nova', serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 42px;
+  letter-spacing: -0.357143px;
+  color: #33323D;
+}
+
+.bookmark-text p {
+  width: 100%;
+  height: 120px;
+  margin-top: 28px;
+  font-family: 'Public Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #33323D;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
+
+.bookmark-image {
+  width: 540px;
+  height: 500px;
+  background-color: #4F63D8;
+  margin-left: 125px;
+}
+
+.background-bookmark {
+  width: 432px;
+  height: 450px;
+  margin-top: 50px;
+  margin-left: 30px;
+  background-image: url(../../assets/portfolio/bookmark/image-portfolio-bookmark.jpg);
+  background-size: cover;
+}
+
+.insure-container {
+  display: flex;
+  width: 1015px;
+  height: 500px;
+  margin-left: 212px;
+  margin-top: 80px;
+}
+
+.insure-image {
+  width: 540px;
+  height: 500px;
+  background-color: #9A99AB;
+}
+
+.background-insure {
+  width: 432px;
+  height: 450px;
+  margin-top: 50px;
+  margin-left: 30px;
+  background-image: url(../../assets/portfolio/insure/image-portfolio-insure.jpg);
+  background-size: cover;
+}
+
+.insure-text {
+  width: 100%;
+  height: 292px;
+  margin-top: 103px;
+}
+
+.insure-text h2 {
+  width: 100%;
+  height: 42px;
+  font-family: 'Ibarra Real Nova', serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 42px;
+  letter-spacing: -0.357143px;
+  color: #33323D;
+}
+
+.insure-text p {
+  width: 100%;
+  height: 120px;
+  margin-top: 28px;
+  font-family: 'Public Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #33323D;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
+
+.fylo-container {
+  display: flex;
+  width: 1015px;
+  height: 500px;
+  margin-left: 212px;
+  margin-top: 80px;
+}
+
+.fylo-text {
+  width: 100%;
+  height: 292px;
+  margin-top: 103px;
+
+}
+
+.fylo-text h2 {
+  width: 100%;
+  height: 42px;
+  font-family: 'Ibarra Real Nova', serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 42px;
+  letter-spacing: -0.357143px;
+  color: #33323D;
+}
+
+.fylo-text p {
+  width: 100%;
+  height: 120px;
+  margin-top: 28px;
+  font-family: 'Public Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #33323D;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
+
+.fylo-image {
+  width: 540px;
+  height: 500px;
+  background-color: #41B4D3;
+  margin-left: 125px;
+}
+
+.fylo-background {
+  width: 432px;
+  height: 450px;
+  margin-top: 50px;
+  margin-left: 30px;
+  background-image: url(../../assets/portfolio/fylo/image-portfolio-fylo.jpg);
+  background-size: cover;
+}
+
+.final-section {
+  margin-left: 212px;
+  margin-right: 213px;
+  margin-bottom: 150px;
+}
